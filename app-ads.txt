@@ -22,7 +22,7 @@ taurusx.com, 70079, RESELLER
 ushareit.com, lcb555b3bc8667a09a, RESELLER
 lacunads.com, lcb555b3bc8667a09a, RESELLER
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
-themediagrid.com, ws2d8n, RESELLER, 35d5010d7789b49d
+themediagrid.com, ws2d8n, PUBLISHER, 35d5010d7789b49d
 thunder-monetize.com, 4818959194, RESELLER
 jcprog.com, pub-4518750432, RESELLER
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
