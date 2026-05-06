@@ -1,7 +1,7 @@
 undertone.com, 4108, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
-adyoulike.com, aff404dd1a704f379acae5190701c9c2, RESELLER
+adyoulike.com, aff404dd1a704f379acae5190701c9c2, PUBLISHER
 adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
@@ -67,7 +67,7 @@ targetbetter.com, 82228, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 zetaglobal.net, 630, RESELLER
 risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
-voisetech.com, 1066, RESELLER
+voisetech.com, 1066, PUBLISHER
 improvedigital.com, 2464, RESELLER
 improvedigital.com, 2297, RESELLER
 kidoz.net, 15467, RESELLER, a109366414b7335e
