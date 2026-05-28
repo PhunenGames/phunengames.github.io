@@ -884,4 +884,9 @@ olaex.biz, 100131, RESELLER
 zmaticoo.com, 5135063, RESELLER
 conversantmedia.com, 100322, RESELLER, 03113cd04947736d
 themediagrid.com, JATH6L, RESELLER, 35d5010d7789b49d
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+adform.com, 3400, RESELLER, 9f5210a2f0999e32
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
 contact=phunengames@gmail.com
